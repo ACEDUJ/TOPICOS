@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_fecha
+comment0.target=Visitante(java.lang.String,\ java.util.Calendar)
+comment1.params=p_nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=p_fecha
+comment2.target=void\ setFechaVisita(java.util.Calendar)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=java.util.Calendar\ getFechaVisita()
+comment5.params=
+comment5.target=void\ mostrar()
+comment6.params=
+comment6.target=double\ entrada()
+comment7.params=p_fecha\ p_visitante
+comment7.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ tipoVisitante()
+numComments=9

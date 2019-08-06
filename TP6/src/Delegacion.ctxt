@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_fechaVisita\ p_individuo
+comment0.target=Delegacion(java.lang.String,\ java.util.Calendar,\ Individuo)
+comment1.params=p_nombre\ p_fechaVisita\ p_integrantes
+comment1.target=Delegacion(java.lang.String,\ java.util.Calendar,\ java.util.ArrayList)
+comment2.params=p_integrantes
+comment2.target=void\ setIntegrantes(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getIntegrantes()
+comment4.params=
+comment4.target=double\ entrada()
+comment5.params=p_individuo
+comment5.target=void\ inscribirIndividuo(Individuo)
+comment6.params=
+comment6.target=int\ cantidadDeIntegrantes()
+comment7.params=
+comment7.target=java.lang.String\ tipoVisitante()
+comment8.params=
+comment8.target=void\ mostrar()
+comment9.params=p_fecha\ p_visitante
+comment9.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+numComments=10

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=p_dni\ p_nombre\ p_apellido\ p_fecha\ p_lu
+comment0.target=Alumno(int,\ java.lang.String,\ java.lang.String,\ java.util.Calendar,\ int)
+comment1.params=p_lu
+comment1.target=void\ setLu(int)
+comment10.params=
+comment10.target=void\ mostrar()
+comment10.text=\n\ El\ m\u00E9todo\ mostrar\ se\ encarga\ de\ la\ impresi\u00F3n\ por\ pantalla\ de\ los\ datos\ del\ alumno.\n
+comment2.params=p_nota
+comment2.target=void\ setNota1(double)
+comment3.params=p_nota
+comment3.target=void\ setNota2(double)
+comment4.params=
+comment4.target=int\ getLu()
+comment5.params=
+comment5.target=double\ getNota1()
+comment6.params=
+comment6.target=double\ getNota2()
+comment7.params=
+comment7.target=boolean\ aprueba()
+comment7.text=\n\ @Returns\ valor\ booleano\n\ El\ m\u00E9todo\ aprueba\ devuelve\ un\ valor\ booleano\ evaluando\ el\ valor\ de\ verdad\ de\ tres\ condiciones\ necesarias\:\n\ <p>\n\ (1)\ El\ promedio\ de\ notas\ es\ igual\ o\ mayor\ a\ 7.\n\ <p>\n\ (2)\ La\ primer\ nota\ es\ igual\ o\ mayor\ a\ 6.\n\ <p>\n\ (3)\ La\ segunda\ nota\ es\ igual\ o\ mayor\ a\ 6.\n\ <p>\n\ de\ ser\ verdaderas\ las\ tres\ condiciones\ se\ devuelve\ un\ valor\ TRUE.\n
+comment8.params=
+comment8.target=java.lang.String\ leyendaAprueba()
+comment9.params=
+comment9.target=double\ promedio()
+comment9.text=\n\ El\ m\u00E9todo\ promedio\ recibe\ las\ dos\ notas\ del\ alumno\ y\ calcula\ el\ promedio.\n
+numComments=11

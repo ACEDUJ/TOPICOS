@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=p_nroCuenta\ p_titular\ p_saldo
+comment0.target=CuentaCorriente(int,\ Persona,\ double)
+comment1.params=p_nroCuenta\ p_titular
+comment1.target=CuentaCorriente(int,\ Persona)
+comment2.params=p_limite
+comment2.target=void\ setLimiteDescubierto(double)
+comment3.params=
+comment3.target=double\ getLimiteDescubierto()
+comment4.params=p_importe
+comment4.target=void\ extraer(double)
+comment4.text=\n\ el\ m\u00E9todo\ extraer\ evalua\ si\ el\ tituar\ se\ encuentra\ en\ condiciones\ de\ realizar\n\ una\ extraccion.\n
+comment5.params=p_importe
+comment5.target=java.lang.String\ xQNoPuedoExtraer(double)
+comment6.params=p_importe
+comment6.target=boolean\ puedeExtraer(double)
+comment6.text=\n\ el\ m\u00E9todo\ puedeExtraer()\ devuelve\ la\ evaluacion\ de\ la\ condicion\ necesaria\ para\n\ la\ extraci\u00F3n.\n\ @return\ valor\ de\ tipo\ boolean.\n
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=p_nombre
+comment0.target=Zoologico(java.lang.String)
+comment1.params=p_nombre\ p_visitante
+comment1.target=Zoologico(java.lang.String,\ Visitante)
+comment10.params=p_fechaDesde\ p_fechaHasta
+comment10.target=double\ recaudacion(java.util.Calendar,\ java.util.Calendar)
+comment2.params=p_nombre\ p_visitantes
+comment2.target=Zoologico(java.lang.String,\ java.util.ArrayList)
+comment3.params=p_nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=p_visitantes
+comment5.target=void\ setVisitantes(java.util.ArrayList)
+comment6.params=
+comment6.target=java.util.ArrayList\ getVisitantes()
+comment7.params=p_visitante
+comment7.target=void\ nuevoVisitante(Visitante)
+comment8.params=p_fecha\ p_tipoVisitante
+comment8.target=void\ listaTipoVisitantePorFecha(java.util.Calendar,\ java.lang.String)
+comment9.params=p_fecha
+comment9.target=void\ listaVisitantePorFecha(java.util.Calendar)
+numComments=11

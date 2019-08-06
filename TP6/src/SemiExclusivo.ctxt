@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_sueldo\ p_anio\ p_horas\ p_horasInv
+comment0.target=SemiExclusivo(java.lang.String,\ double,\ int,\ int,\ int)
+comment1.params=p_horasInv
+comment1.target=void\ setHorasDeInvestigacion(int)
+comment2.params=
+comment2.target=int\ getHorasDeInvestigacion()
+comment3.params=
+comment3.target=void\ mostrarCargo()
+numComments=4
